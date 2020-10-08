@@ -1,0 +1,19 @@
+{
+  "name": "automated_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorgen_Arnes <jorgen.arnes@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-less": "^4.0.1"
+  }
+}
